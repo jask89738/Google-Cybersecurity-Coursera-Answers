@@ -1,0 +1,261 @@
+WEEK 4 ANSWERS
+Test your knowledge: Important cybersecurity tools
+
+ 
+
+What tool is designed to capture and analyze data traffic within a network?
+
+network protocol analyzer (packet sniffer)
+Structured Query Language (SQL)
+Google Chronicle
+Splunk Enterprise
+ 
+
+Which of the following are examples of SIEM tools? Select two answers.
+
+Python
+Google Chronicle
+Linux
+Splunk Enterprise
+ 
+
+How are logs primarily used by security professionals?
+
+Identify vulnerabilities and potential security breaches
+Collect and analyze data to monitor critical activities in an organization
+Select which security team members will respond to an incident
+Research and optimize processing capabilities within a network
+ 
+
+Fill in the blank: A _____ is a manual that provides details about operational actions.
+
+case history
+directory
+playbook
+checklist
+ 
+
+Test your knowledge: Core cybersecurity knowledge and skills
+
+ 
+
+What do security professionals use to interact with and request information from a database?
+
+Confidentiality, integrity, availability (CIA) triad
+Structured Query Language (SQL)
+Linux
+Python
+ 
+
+What is programming typically used for? Select two answers.
+
+Enable open-source operations
+Create a specific set of instructions for a computer to execute tasks
+Complete repetitive tasks and processes
+Record events that occur within an organization’s systems
+ 
+
+Fill in the blank: Linux is an open-source _____ that can be used to examine logs.
+
+operating system
+database
+algorithm
+programming language
+ 
+
+A playbook is a manual that provides details about how to respond to an incident only after it has occurred.
+
+True
+False
+ 
+
+Weekly challenge 4
+
+ 
+
+Which of the following statements correctly describe logs? Select two answers.
+
+A business might log each time an employee signs into their computer.
+A log is used as a formal guide to incident response.
+Security professionals use logs to visualize data.
+A log is a record of events that occur within an organization’s systems. 
+ 
+
+Which of the following tasks can be performed using SIEM tools? Select three answers.
+
+Providing alerts for specific types of risks
+Performing incident analysis
+Proactively searching for threats
+Notifying authorities of illegal activity
+ 
+
+What is a benefit of a tool, such as Google’s Chronicle, being cloud-native?
+
+It requires hardware to deploy.
+It is a static resource.
+It allows for fast delivery of new features.
+It performs best when downloaded to a network.
+ 
+
+Fill in the blank: A security professional uses a _____ as a manual to guide operational activities.
+
+spreadsheet
+toolkit
+review
+playbook
+ 
+
+As a security analyst, you are monitoring network traffic to ensure that SPII data is not being accessed by unauthorized users. What does this scenario describe?
+
+Using a network protocol analyzer (packet sniffer)
+Programming with code
+Calculating with formulas
+Gathering data in a spreadsheet
+ 
+
+Fill in the blank: The wide exposure and immediate access to the source code of open-source tools makes it _____ likely that issues will occur.
+
+very
+more
+less
+equally
+ 
+
+What are some key benefits of programming languages? Select all that apply.
+
+They install security hardware.
+They create a specific set of instructions for a computer to execute tasks.
+They execute repetitive processes accurately.
+They filter through data points faster than humans can working manually.
+ 
+
+How is an open-source operating system, such as Linux, different from other operating systems?
+
+It relies on a command line.
+It is only a desktop tool.
+It is proprietary.
+It must be downloaded from the cloud.
+ 
+
+Fill in the blank: A database is a _____ of organized data stored in a computer system.
+
+visualization
+collection
+model
+frame
+ 
+
+What are some key benefits of using Python to perform security tasks? Select all that apply.
+
+It is designed for high levels of accuracy.
+It makes static data more dynamic.
+It simplifies repetitive tasks.
+It helps security professionals be more accurate.
+ 
+
+Shuffle Q/A
+
+ 
+
+Which of the following tasks can be performed using SIEM tools? Select three answers.
+
+Helping security analysts identify potential breaches
+Collecting and analyzing data
+Providing alerts for specific types of risks and threats
+Requesting security data from government agencies
+ 
+
+Why might a security professional choose Google Chronicle to store security data for later analysis?
+
+It is cloud-native, which means it delivers new features quickly.
+It requires hardware to deploy, so it is more secure.
+It is a static resource, so the user interface never changes.
+It performs best when downloaded to a network, which enables efficient processing.
+ 
+
+A security team wants to examine logs to understand what is occurring within their systems. Why might they choose Linux to perform this task? Select two answers.
+
+It allows for text-based commands by users.
+It is an efficient programming language.
+It is proprietary.
+It is open source.
+ 
+
+Fill in the blank: Security professionals can use _____ to interact with and request information from a database.
+
+Chronicle
+network protocol analyzers (packet sniffers)
+Splunk Enterprise
+SQL
+ 
+
+What are some key benefits of using Python to perform security tasks? Select all that apply.
+
+It saves time.
+It clearly maps data.
+It helps ensure accuracy.
+It uses a command-line interface.
+ 
+
+What are some key benefits of using Python to perform security tasks? Select all that apply.
+
+ 
+
+It helps security professionals work with high levels of detail.
+It enables security professionals to be more accurate.
+It simplifies repetitive tasks.
+It automatically eliminates sensitive information.
+ 
+
+As a security analyst, you are monitoring network traffic and detect a large number of failed login attempts. Which of the following tools would help you investigate this incident? Select two answers.
+
+An intrusion detection system (IDS)
+A network protocol analyzer (packet sniffer)
+A cryptographic encoder
+A command-line interface
+ 
+
+What are some key benefits of programming languages? Select all that apply.
+
+They create a specific set of instructions for a computer to execute tasks.
+They reduce the risk of human error.
+They describe how data is organized.
+They complete tasks faster than if working manually.
+What are some key benefits of programming languages? Select all that apply.
+
+ 
+
+Execute repetitive processes very accurately
+Complete repetitive tasks with a high degree of efficiency
+Implement security protocols
+Create a specific set of instructions for a computer to execute tasks
+ 
+
+Fill in the blank: To request information from a _____, security professionals can use SQL.
+
+spreadsheet
+database
+network
+dashboard
+ 
+
+Which of the following tasks can be performed using SIEM tools? Select three answers.
+
+Implementing security software programs
+Saving time by reducing the amount of data to be reviewed
+Analyzing filtered events and patterns
+Monitoring critical activities
+ 
+
+What term is used to describe publicly available systems, such as Linux?
+
+Open-source
+Unregulated
+Restricted
+Free-for-all
+A cybersecurity analyst is tasked with proactively searching for threats and performing incident analysis. What type of tool should they use?
+
+Structured Query Language (SQL)
+Chain of custody playbook
+Linux operating system
+Security information and event management (SIEM)
