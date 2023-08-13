@@ -1,0 +1,239 @@
+WEEK 3 ANSWERS
+Test your knowledge: Frameworks and controls
+
+ 
+
+Fill in the blank: A security _____ is a set of guidelines used for building plans to help mitigate risk and threats to data and privacy.
+
+control
+framework
+regulation
+lifecycle
+ 
+
+An organization requires its employees to complete a new data privacy training program each year to reduce the risk of a data breach. What is this training requirement an example of?
+
+Security control
+Data confidentiality
+Cybersecurity Framework (CSF)
+Personally identifiable information (PII)
+ 
+
+What is a foundational model that informs how organizations consider risk when setting up systems and security policies?
+
+Cybersecurity Framework (CSF)
+Sensitive personally identifiable information (SPII)
+Confidentiality, integrity, and availability (CIA) triad
+General Data Protection Regulation law (GDPR)
+ 
+
+Security teams use the NIST Cybersecurity Framework (CSF) as a baseline to manage short and long-term risk.
+
+True
+False
+ 
+
+Test your knowledge: Ethics in cybersecurity
+
+ 
+
+An employee trained to handle PII and SPII leaves confidential patient information unlocked in a public area. Which ethical principles does this violate? Select all that apply.
+
+Confidentiality
+Laws
+Privacy protections
+Remaining unbiased
+ 
+
+Fill in the blank: Privacy protection means safeguarding _____ from unauthorized use.
+
+business networks
+personal information
+documentation
+compliance processes
+ 
+
+You receive a text message on your personal device from your manager stating that they cannot access the company’s secured online database. They’re updating the company’s monthly party schedule and need another employee’s birth date right away. Your organization’s policies and procedures state that employee information should never be accessed or shared through personal communication channels. What should you do?
+
+Request identification from your manager to ensure the text message is authentic; then, provide the birth date.
+Respectfully decline, then remind your manager of the organization’s guidelines.
+Give your manager the employee’s birth date; a party is a friendly gesture.
+Ask your manager to provide proof of their inability to access the database.
+ 
+
+You work for a U.S.-based utility company that suffers a data breach. Several hacktivist groups claim responsibility for the attack. However, there is no evidence to verify their claims. What is the most ethical way to respond to this incident?
+
+Escalate the situation by involving other organizations that have been targeted.
+Improve the company’s defenses to help prevent future attacks.
+Target a specific hacktivist group as a warning to the others.
+Conduct cyberattacks against each hacktivist group that claimed responsibility.
+ 
+
+Weekly challenge 3
+
+ 
+
+What are some of the primary purposes of security frameworks? Select three answers.
+
+Protecting PII data
+Managing organizational risks
+Safeguarding specific individuals
+Aligning security with business goals
+or
+
+Protecting PII data
+Managing organizational risks
+Safeguarding specific individuals
+Identifying security weaknesses
+ 
+
+Which of the following are core components of security frameworks? Select two answers.
+
+Managing data requests
+Identifying and documenting security goals
+Monitoring and communicating results
+Monitoring personally identifiable information
+or
+
+Establishing regulatory compliance measures
+Implementing security processes
+Setting guidelines to achieve security goals
+Monitoring personally identifiable information
+ 
+
+Fill in the blank: A security professional has been tasked with implementing safeguards to reduce suspicious activity on their company's network. They use _____ to help them reduce this type of risk.
+
+security controls
+public websites
+security ethics
+private information
+ 
+
+You are helping your security team consider risk when setting up a new software system. Using the CIA triad, you focus on confidentiality, availability, and what else?
+
+Integrity
+Information
+Inconsistencies
+Intelligence
+ 
+
+Fill in the blank: _____ are items perceived as having value to an organization.
+
+Incidents
+Lifecycles
+Assets
+Alerts
+ 
+
+Which of the following statements accurately describe the NIST CSF? Select all that apply.
+
+It is only effective at managing long-term risk.
+Its purpose is to help manage cybersecurity risk.
+It is a voluntary framework.
+It consists of standards, guidelines, and best practices.
+or
+
+It is a voluntary framework.
+Security teams use it as a baseline to manage risk.
+It is only effective at managing short-term risk.
+Its purpose is to help manage cybersecurity risk.
+ 
+
+Fill in the blank: Some of the most dangerous threat actors are _____ because they often know where to find sensitive information, can access it, and may have malicious intent.
+
+past vendors
+disgruntled employees
+senior partners
+dissatisfied customers
+ 
+
+Fill in the blank: As a security professional, you monitor the potential threats associated with _____ because they often have access to sensitive information, know where to find it, and may have malicious intent.
+
+past vendors
+disgruntled employees
+senior partners
+dissatisfied customers
+ 
+
+A security professional is updating software on a coworker’s computer and happens to see a very interesting email about another employee. The security professional chooses to follow company guidelines with regards to privacy protections and does not share the information with coworkers. Which concept does this scenario describe?
+
+Preserving evidence
+Security controls
+Security ethics
+Business email compromise
+ 
+
+A security professional overhears two employees discussing an exciting new product that has not been announced to the public. The security professional chooses to follow company guidelines with regards to confidentiality and does not share the information about the new product with friends. Which concept does this scenario describe?
+
+Preserving evidence
+Security controls
+Security ethics
+Business email compromise
+ 
+
+Fill in the blank: The ethical principle of _____ involves safeguarding an organization’s human resources records that contain personal details about employees.
+
+honesty
+privacy protection
+unlimited access
+non-bias
+ 
+
+You are a security professional working for a state motor vehicle agency that stores drivers' national identification numbers and banking information. Which ethical principle involves adhering to rules that are intended to protect these types of data?
+
+Restrictions
+Laws
+Guidelines
+Investigations
+ 
+
+Shuffle Q/A
+
+ 
+
+Fill in the blank: A security professional has been tasked with implementing strict password policies on workstations to reduce the risk of password theft. This is an example of _____.
+
+Conformity
+Communication
+Confidentiality
+Consent
+ 
+
+Fill in the blank: A key aspect of the CIA triad is ensuring that data is correct, _____, and reliable.
+
+authentic
+public
+centralized
+updated
+ 
+
+For what reasons might disgruntled employees be some of the most dangerous threat actors? Select all that apply.
+
+They know where to find sensitive information.
+They are less productive than other employees.
+They have access to sensitive information.
+They may have malicious intent.
+ 
+
+Fill in the blank: The ethical principle of _____ involves adhering to compliance regulations.
+
+protections
+restrictions
+laws
+guidelines
+ 
+
+Which ethical principle describes the rules that are recognized by a community and enforced by a governing entity?
+
+Restrictions
+Guidelines
+Protections
+Laws
+ 
+
+You are helping your security team consider risk when setting up a new software system. Using the CIA triad, you focus on confidentiality, integrity, and what else?
+
+Activity
+Applications
+Accuracy
+Availability
