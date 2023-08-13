@@ -1,0 +1,191 @@
+WEEK 1 COURSE 2
+Week 1
+ 
+
+Fill in the blank: The _____ domain is focused on access and authorization to keep data secure by making sure that users follow established policies to control and manage assets.
+security operations
+identity and access management
+asset security
+communication and network security
+What is the focus of the security and risk management domain?
+Manage and secure wireless communications
+Secure physical networks and wireless communications
+Optimize data security by ensuring effective processes are in place
+Define security goals and objectives, risk mitigation, compliance, business continuity, and regulations
+In which domain would a security professional conduct security control testing; collect and analyze data; and perform security audits to monitor for risks, threats, and vulnerabilities?
+Communication and network engineering
+Security architecture and engineering
+Identity and access management
+Security assessment and testing
+Fill in the blank: The _____ domain concerns conducting investigations and implementing preventive measures.
+security operations
+communications and networking engineering
+asset security
+software development security
+ 
+
+Test your knowledge: Navigate threats, risks, and vulnerabilities
+
+What is a vulnerability?
+An organization’s ability to manage its defense of critical assets and data and react to change
+Anything that can impact the confidentiality, integrity, or availability of an asset
+Any circumstance or event that can negatively impact assets
+A weakness that can be exploited by a threat
+Fill in the blank: Information protected by regulations or laws is a _____. If it is compromised, there is likely to be a severe negative impact on an organization’s finances, operations, or reputation.
+low-risk asset
+new-risk asset
+medium-risk asset
+high-risk asset
+What are the key impacts of threats, risks, and vulnerabilities? Select three answers.
+Damage to reputation
+Employee retention
+Identity theft
+Financial damage
+Fill in the blank: The steps in the Risk Management Framework (RMF) are prepare, _____, select, implement, assess, authorize, and monitor.
+communicate
+categorize
+produce
+reflect
+ 
+
+Weekly challenge 1
+
+Fill in the blank: Security _____ refers to an organization’s ability to manage its defense of critical assets and data, as well as its ability to react to change.
+posture
+architecture
+governance
+hardening
+Which of the following examples are key focus areas of the security and risk management domain? Select three answers.
+Mitigate risk
+Be in compliance
+Secure digital and physical assets
+Define security goals and objectives
+Which of the following examples are key focus areas of the security and risk management domain? Select three answers.
+
+Follow legal regulations
+Conduct control testing
+Define security goals
+Maintain business continuity
+ 
+
+What term describes an organization's ability to maintain its everyday productivity by establishing risk disaster recovery plans?
+Mitigation
+Daily defense
+Recovery
+Business continuity
+What security concept involves all individuals in an organization taking an active role in reducing risk and maintaining security?
+Shared responsibility
+Remote services
+Secure coding
+Employee retention
+A security analyst researches ways to improve access and authorization at their business. Their primary goal is to keep data secure. Which security domain does this scenario describe?
+Security assessment and testing
+Communication and network security
+Asset security
+Identity and access management
+What are the key areas of focus in the security assessment and testing domain? Select three answers.
+Collect and analyze data
+Perform security audits
+Conduct security control testing
+Use secure coding practices
+Fill in the blank: The software development _____ process may involve penetration testing during the deployment and implementation phase of developing software products.
+positioning
+access
+operational
+lifecycle
+ 
+
+Which of the following statements accurately describe risk? Select all that apply.
+Another way to think of risk is the likelihood of a threat occurring.
+A high-risk asset is any information protected by regulations or laws.
+If compromised, a medium-risk asset may cause some damage to an organization’s ongoing operations.
+If compromised, a low-risk asset would have a severe negative impact on an organization’s ongoing reputation.
+ 
+
+Which of the following statements accurately describe risk? Select all that apply.
+
+If compromised, a high-risk asset is unlikely to cause financial damage.
+Website content or published research data are examples of low-risk assets.
+Organizations often rate risks at different levels: low, medium, and high.
+If compromised, a medium-risk asset may cause some damage to an organization's finances.
+ 
+
+A business experiences an attack. As a result, sensitive personally identifiable information (SPII) is leaked through the dark web. What type of consequence does this scenario describe?
+Financial gain
+Identity theft
+Reputation
+Customer
+In the Risk Management Framework (RMF), which step involves knowing how current systems are operating and if they support security goals?
+Monitor
+Assess
+Authorize
+Categorize
+ 
+
+Shuffle Q/A
+
+Fill in the blank: Security posture refers to an organization’s ability to react to _____ and manage its defense of critical assets and data.
+change
+tasks
+sustainability
+competition
+How does business continuity enable an organization to maintain everyday productivity?
+By ensuring return on investment
+By exploiting vulnerabilities
+By outlining faults to business policies
+By establishing risk disaster recovery plans
+Which of the following activities may be part of establishing security controls? Select three answers.
+Monitor and record user requests
+Collect and analyze security data regularly
+Evaluate whether current controls help achieve business goals
+Implement multi-factor authentication
+ 
+
+A business experiences an attack. As a result, a major news outlet reports the attack, which creates bad press for the organization. What type of consequence does this scenario describe?
+Increase in profits
+Damage to reputation
+Loss of identity
+Lack of engagement
+In the Risk Management Framework (RMF), which step involves having effective security and privacy plans in place in order to minimize the impact of ongoing risks?
+Authorize
+Prepare
+Categorize
+Implement
+ 
+
+What is the goal of business continuity?
+Reduce personnel
+Remove access to assets
+Destroy publicly available data
+Maintain everyday productivity
+Shared responsibility is a core concept of which domain?
+Security and risk management
+Security architecture and engineering
+Asset security
+Communication and network security
+How does security control testing enable companies to identify new and better ways to mitigate threats? Select two answers.
+By revising project milestones
+By evaluating whether the current controls help achieve goals
+By granting employee access to physical spaces
+By examining organizational goals and objectives
+A business experiences an attack. As a result, its critical business operations are interrupted and it faces regulatory fines. What type of consequence does this scenario describe?
+Practical
+Reputation
+Financial
+Identity
+ 
+
+In the Risk Management Framework (RMF), which step involves being aware of how systems are operating?
+Monitor
+Categorize
+Implement
+Authorize
+ 
+
+A security analyst considers ways to enhance data security at their business. They decide to write a proposal to their supervisor that concerns employee authorization and asset management. Which security domain does this scenario describe?
+
+Software development security
+Security assessment and testing
+Communication and network security
+Identity and access management
+ 
