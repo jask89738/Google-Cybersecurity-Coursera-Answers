@@ -1,0 +1,280 @@
+WEEK 2 ANSWERS
+Week 2
+ 
+
+What historical event occurred as a result of trying to track illegal copies of medical software and prevent pirated licenses? 
+
+LoveLetter attack
+Morris worm
+Equifax breach
+Brain virus
+ 
+
+Which of the following threats are most likely to occur in the event of a phishing attack? Select all that apply.
+
+Malicious software being deployed
+Overtaxing systems with too many internal emails
+Theft of the organization’s hardware
+Employees inadvertently revealing sensitive data
+ 
+
+Test your knowledge: The history of cybersecurity
+
+ 
+
+Fill in the blank: A computer virus is malicious _____ that interferes with computer operations and causes damage.
+
+code
+sequencing
+hardware
+formatting
+ 
+
+What is one way that the Morris worm helped shape the security industry?
+
+It prevented the development of illegal copies of software.
+It inspired threat actors to develop new types of social engineering attacks.
+It led to the development of computer emergency response teams.
+It made organizations more aware of the significant financial impact of security incidents.
+ 
+
+What were the key impacts of the Equifax breach? Select two answers.
+
+Millions of customers’ PII was stolen.
+The significant financial consequences of a breach became more apparent.
+Developers were able to track illegal copies of software and prevent pirated licenses.
+Phishing became illegal due to significant public outcry.
+ 
+
+Social engineering, such as phishing, is a manipulation technique that relies on computer error to gain private information, access, or valuables.
+
+True
+False
+ 
+
+Test your knowledge: The eight CISSP security domains
+
+ 
+
+Fill in the blank: Examples of security _____ include security and risk management and security architecture and engineering.
+
+domains
+data
+networks
+assets
+ 
+
+A security professional is responsible for ensuring that company servers are configured to securely store, maintain, and retain SPII. These responsibilities belong to what security domain?
+
+Security architecture and engineering
+Asset security
+Security and risk management
+Communication and network security
+ 
+
+Your supervisor asks you to audit the human resources management system at your organization. The objective of your audit is to ensure the system is granting appropriate access permissions to current human resources administrators. Which security domain is this audit related to?
+
+Software development security
+Security assessment and testing
+Security operations
+Identity and access management
+ 
+
+Why is it useful to understand the eight CISSP security domains? Select two answers.
+
+To develop programming skills
+To identify potential career opportunities
+To better understand your role within an organization
+To improve your communication skills
+ 
+
+Weekly challenge 2
+
+ 
+
+What is the term for software that is designed to harm devices or networks?
+
+Bug
+Social application
+Malware
+Error message
+ 
+
+What historical event resulted in one of the largest known thefts of sensitive data, including social security numbers and credit card numbers?
+
+LoveLetter attack
+Equifax breach
+Morris worm
+Brain virus
+ 
+
+Fill in the blank: Social engineering is a manipulation technique that exploits _____ error to gain access to private information.
+
+network
+human
+computer
+coding
+ 
+
+Fill in the blank: Social engineering is a _____ that exploits human error to gain private information, access, or valuables.
+
+type of malware
+replicating virus
+manipulation technique
+business breach
+ 
+
+A security professional is asked to teach employees how to avoid inadvertently revealing sensitive data. What type of training should they conduct?
+
+Training about network optimization
+Training about business continuity
+Training about security architecture
+Training about social engineering
+ 
+
+Which domain involves defining security goals and objectives, risk mitigation, compliance, business continuity, and the law?
+
+Security assessment and testing
+Security architecture and engineering
+Identity and access management
+Security and risk management
+ 
+
+Which of the following tasks may be part of the security architecture and engineering domain? Select all that apply.
+
+Validating the identities of employees
+Configuring a firewall
+Securing hardware
+Ensuring that effective systems and processes are in place
+ 
+
+Which of the following tasks may be part of the asset security domain? Select all that apply.
+
+Ensuring users follow established policies
+Securing digital and physical assets
+Data storage and maintenance
+Proper disposal of digital assets
+ 
+
+A security professional is auditing user permissions at their organization in order to ensure employees have the correct access levels. Which domain does this scenario describe?
+
+Security assessment and testing
+Security and risk management
+Asset security
+Communication and network security
+ 
+
+Which domain involves keeping data secure by ensuring users follow established policies to control and manage physical assets?
+
+Identity and access management
+Communication and network security
+Security assessment and testing
+Security and risk management
+ 
+
+Which domain involves conducting investigations and implementing preventive measures?
+
+Security operations
+Security and risk management
+Asset security
+Identity and access management
+ 
+
+A security professional receives an alert that an unknown device has connected to their organization’s internal network. They follow policies and procedures to quickly stop the potential threat. Which domain does this scenario describe?
+
+Security operations
+Security and risk management
+Asset security
+Identity and access management
+ 
+
+Shuffle Q/A
+
+ 
+
+Which of the following threats are examples of malware? Select two answers.
+
+Viruses
+Bugs
+Worms
+Error messages
+ 
+
+Fill in the blank: Exploiting human error to gain access to private information is an example of _____ engineering.
+
+network
+communication
+social
+digital
+ 
+
+Which of the following tasks may be part of the security operations domain? Select all that apply.
+
+Implementing preventive measures
+Investigating an unknown device that has connected to an internal network
+Conducting investigations
+Using coding practices to create secure applications
+ 
+
+A security professional conducts internal training to teach their coworkers how to identify a social engineering attack. What types of security issues are they trying to avoid? Select all that apply.
+
+Employees inadvertently revealing sensitive data
+Overtaxing systems with too many internal emails
+Phishing attacks
+Malicious software being deployed
+ 
+
+Which of the following tasks are part of the security and risk management domain? Select all that apply.
+
+Securing physical assets
+Defining security goals and objectives
+Compliance
+Business continuity
+ 
+
+Which domain involves optimizing data security by ensuring that effective tools, systems, and processes are in place?
+
+Communication and network security
+Security and risk management
+Identity and access management
+Security architecture and engineering
+ 
+
+Which domain involves securing digital and physical assets, as well as managing the storage, maintenance, retention, and destruction of data?
+
+Asset security
+Communication and network security
+Security assessment and testing
+ Security operations
+ 
+
+Which of the following tasks may be part of the security assessment and testing domain? Select all that apply.
+
+Auditing user permissions
+Securing physical networks and wireless communications
+Conducting security audits
+Collecting and analyzing data
+ 
+
+A security professional is setting up access keycards for new employees. Which domain does this scenario describe?
+
+Identity and access management
+Communication and network security
+Security and risk management
+Security assessment and testing
+ 
+
+A security professional is optimizing data security by ensuring that effective tools, systems, and processes are in place. Which domain does this scenario describe?
+
+Communication and network security
+Security architecture and engineering
+Security and risk management
+Identity and access management
+ 
+
+Which of the following tasks may be part of the identity and access management domain? Select all that apply.
+
+Conducting security control testing
+Setting up an employee’s access keycard
+Ensuring users follow established policies
+Controlling physical assets
